@@ -1,2 +1,7 @@
 # zip-code-mex-excite
-# zip-code-mex-excite
+
+## Installation
+
+```python
+pip install -r requirements.txt
+```
